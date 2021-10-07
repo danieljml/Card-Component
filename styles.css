@@ -115,6 +115,7 @@ ul {
   .card {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 2fr;
+    width: 90%;
   }
 
   .card__info {
